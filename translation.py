@@ -35,18 +35,18 @@ Channel:- © @TG_BotZ"""
     HELP_USER ="""**Hai Follow These steps**
 
 **>>>**
-```Send YouTube url | New Name```
+```Send Hotstar url ```
 
 **>>>**
 ```Send custom Thumbnail (Optional). Link Thumbnail will add automatically and you can find thumbnail above the Buttons.``` 
-```If you don't need thumbnail hit /deletethumbnail```
+```If you don't need thumbnail hit``` /deletethumbnail
 
 **>>>**
 ```Select the Button which Media you want..```
 
 """
     ABOUT_USER ="""
-○ **My Name** : You Tube Downloader
+○ **My Name** : Hotstar Downloader
 
 ○ **Creator** : <a href="https://t.me/lNS4N3">lNS4N3</a> 
 
