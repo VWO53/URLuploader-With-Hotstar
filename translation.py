@@ -1,12 +1,12 @@
 class Translation(object):
     START_TEXT = """
-**Hello, This is YouTube Downloader  Bot**
-      
-```I Will Convert Youtube Link to Video/File & Mp3```
+**Hello, This is Hotstar Downloader  Bot**
+     
+```I Will Convert Hotstar Link to Video/File & Mp3```
+**Note:-** ```Only Free Content Support,```
+```DRM Protect And Premium/VIP Content Not support```
 
-**Do one By One Otherwise you will get Permenent Ban**
-        
-/help for more details...""" 
+/help For More Details....""" 
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
